@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+	<title>button-close (1)-svg</title>
+	<defs>
+		<image  width="19" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAMAAACO0hVbAAAAAXNSR0IB2cksfwAAAIdQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////EldLgwAAAC10Uk5TEQkAUM9tElT//txy5o8c744kAVXulDUE+KUxSmqJtOH9t0gLK0t5p8vr5HcZ4rMx/wAAAHBJREFUeJxjYGBkQgcMzCysbOhi7BycXNwM6GJAwMPLhyHGwcEvICgEFxPmgAIRUTFxdDEODglJKYgYm7SMrJw8J0RUQVEJJAZRrqyiqqauocnBwamhJIRVDJtebHZgcws2N4PFtLR1CIUBtrDCEqYALLALyzgtwwYAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Ic_send_48px.svg" href="#img1" x="22" y="20"/>
+</svg>
