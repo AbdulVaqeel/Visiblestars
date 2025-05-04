@@ -2,6 +2,22 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+
+background_css = """
+<style>
+.stApp {
+    background-image: url("https://thumbs.dreamstime.com/b/3d-small-people-survey-24588026.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+</style>
+"""
+
+# Inject the CSS into the Streamlit app
+st.markdown(background_css, unsafe_allow_html=True)
+
 # Streamlit app title
 st.title("Al Rajhi Bank Survey AI Application")
 st.title("NPS Scores")
