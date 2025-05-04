@@ -21,7 +21,6 @@ st.markdown(background_css, unsafe_allow_html=True)
 # Streamlit app title
 st.title("Al Rajhi Bank Survey AI Application")
 st.title("NPS Scores")
-st.title("Ajith kumar")
 
 # File uploader widget
 uploaded_file = st.file_uploader("Upload your csv file", type=["csv"])
